@@ -1,0 +1,10 @@
+/home/retore/Bureau/objetExo/myApp/bin/Debug/netcoreapp2.0/myApp.deps.json
+/home/retore/Bureau/objetExo/myApp/bin/Debug/netcoreapp2.0/myApp.runtimeconfig.json
+/home/retore/Bureau/objetExo/myApp/bin/Debug/netcoreapp2.0/myApp.runtimeconfig.dev.json
+/home/retore/Bureau/objetExo/myApp/bin/Debug/netcoreapp2.0/myApp.dll
+/home/retore/Bureau/objetExo/myApp/bin/Debug/netcoreapp2.0/myApp.pdb
+/home/retore/Bureau/objetExo/myApp/obj/Debug/netcoreapp2.0/myApp.csproj.CoreCompileInputs.cache
+/home/retore/Bureau/objetExo/myApp/obj/Debug/netcoreapp2.0/myApp.AssemblyInfoInputs.cache
+/home/retore/Bureau/objetExo/myApp/obj/Debug/netcoreapp2.0/myApp.AssemblyInfo.cs
+/home/retore/Bureau/objetExo/myApp/obj/Debug/netcoreapp2.0/myApp.dll
+/home/retore/Bureau/objetExo/myApp/obj/Debug/netcoreapp2.0/myApp.pdb
